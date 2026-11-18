@@ -1,9 +1,9 @@
-#Tip Calculator
+# Tip Calculator
 
 A commmand-line tool that calculates the tip and splits the bill between people.
 
 ## Run it
-  python3 tip_claculator.py
+  python3 tip_calculator.py
 
 
 ## Example
@@ -12,4 +12,3 @@ A commmand-line tool that calculates the tip and splits the bill between people.
   Number of people : 4
   Each Person: 275.00
 
-  
